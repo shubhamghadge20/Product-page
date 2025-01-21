@@ -58,8 +58,8 @@ This is a fully functional e-commerce web application built using React, React R
 
 1. Clone the repository:
    ```bash
-   git clone <repository_url>
-   cd <repository_folder>
+   git clone https://github.com/shubhamghadge20/Product-page.git
+   cd Product-page
    ```
 
 2. Install dependencies:
