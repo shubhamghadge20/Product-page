@@ -59,6 +59,8 @@ This is a fully functional e-commerce web application built using React, React R
 1. Clone the repository:
    ```bash
    git clone https://github.com/shubhamghadge20/Product-page.git
+   ```
+   ```bash
    cd Product-page
    ```
 
